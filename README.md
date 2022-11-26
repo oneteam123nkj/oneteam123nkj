@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**oneteam123nkj/oneteam123nkj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,9 +10,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  
+  
+  
+<br><br>
 
-
-## 💻 **QC-1 Group Member**
+## 🤸‍♂️ **QC-1 Group Member**
 
 |신호연|하태영|박상우|송찬혁|김민선|
 |------------------------------|-----|----|----|-----|----|
