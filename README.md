@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+## 💻 **QC-1 Group Member**
+
+|신호연|하태영|박상우|송찬혁|김민선|
+|------------------------------|-----|----|----|-----|----|
+|<a href="https://github.com/ho4179"><img src="https://img.shields.io/badge/ho4179-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|<a href="https://github.com/gkxodud"><img src="https://img.shields.io/badge/gkxodud-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|<a href="https://github.com/aabbcsss"><img src="https://img.shields.io/badge/aabbcsss-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|<a href="https://github.com/thdcksgur0714"><img src="https://img.shields.io/badge/thdcksgur0714-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|<a href="https://github.com/mindd0n"><img src="https://img.shields.io/badge/mindd0n-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|
