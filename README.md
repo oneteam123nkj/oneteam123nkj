@@ -3,7 +3,7 @@
   ![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&text=WELCOME!🖐&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=OSS%20QC-1%20%20TEAM%201&descAlignY=70)
   
 # 🌈 Welcome to our page!
-<img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="100"/> We are team 1 of Dongyangmirae University OSS class
+<img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="100"/> We are team 1 of Dongyangmirae University OSS lecture
 
 <br>
 
