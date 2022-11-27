@@ -1,9 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=67C5FF&height=110&section=header&fontSize=50&fontAlign=50&fontAlignY=30" height=100% width=100%>
 <div align="center">
-
-  ![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=WELCOME!&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=OSS%20QC-1%20%20TEAM%201&descAlignY=70)
   
 # 🌈 Welcome to our page!
-We are team 1, for Dongyangmirae University OSS class
+<img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="100"/> We are team 1, for Dongyangmirae University OSS class
 
 <br>
 
@@ -34,6 +33,5 @@ We are team 1, for Dongyangmirae University OSS class
 ![oneteam123nkj's github stats](https://github-readme-stats.vercel.app/api?username=oneteam123nkj&show_icons=true)
 
 <br>
-<br><br><br>
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=67C5FF&height=110&section=footer&fontSize=60&fontAlign=50&fontAlignY=40" height=100% width=100%>
