@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&&color=67C5FF&height=110&section=header&fontSize=50&fontAlign=50&fontAlignY=30" height=100% width=100%>
 <div align="center">
+  
+  ![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&text=WELCOME!🖐&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=OSS%20QC-1%20%20TEAM%201&descAlignY=70)
   
 # 🌈 Welcome to our page!
 <img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="100"/> We are team 1, for Dongyangmirae University OSS class
@@ -14,6 +15,7 @@
   
 <Br>
 
+
 ## 📝 **OSS-REPORT**
 | 번호 | 과제 내용 |
 |---|---|
@@ -21,6 +23,9 @@
 | 02 | [OSS 역사](https://github.com/oneteam123nkj/OSS-report/blob/main/OSS%20%EC%97%AD%EC%82%AC.md)|
 | 03 | [대표적 OSS 소개](https://github.com/oneteam123nkj/OSS-report/tree/main/%EB%8C%80%ED%91%9C%EC%A0%81%20oss%20%EC%86%8C%EA%B0%9C) |  
 
+  <Br>
+    
+    
 ## 🛠 **Tool**
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff"/>
@@ -34,4 +39,4 @@
 
 <br>
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=67C5FF&height=110&section=footer&fontSize=60&fontAlign=50&fontAlignY=40" height=100% width=100%>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&fontSize=60&fontAlign=50&fontAlignY=40" height=100% width=100%>
